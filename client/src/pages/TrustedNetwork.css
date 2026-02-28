@@ -1,0 +1,150 @@
+.tn-page {
+  background: #f3f4f8;
+  min-height: 100vh;
+}
+
+/* HEADER */
+.tn-header {
+  background: linear-gradient(to right, #7c3aed, #ec4899);
+  padding: 60px 0;
+  color: white;
+}
+
+.tn-header-content {
+  width: 1200px;
+  max-width: 95%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.tn-icon {
+  font-size: 40px;
+  background: rgba(255,255,255,0.2);
+  padding: 15px;
+  border-radius: 15px;
+}
+
+/* LAYOUT */
+.tn-container {
+  width: 1200px;
+  max-width: 95%;
+  margin: 50px auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 30px;
+}
+
+/* CARD */
+.tn-card {
+  background: white;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+  margin-bottom: 30px;
+}
+
+.purple-card {
+  background: #f3e8ff;
+}
+
+/* CONTACT */
+.tn-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.tn-contact {
+  background: #f9fafb;
+  padding: 18px;
+  border-radius: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.tn-contact-left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.tn-avatar {
+  width: 50px;
+  height: 50px;
+  background: #e9d5ff;
+  border-radius: 50%;
+  position: relative;
+}
+
+.tn-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+}
+
+.active {
+  background: #22c55e;
+}
+
+.offline {
+  background: #9ca3af;
+}
+
+/* BUTTONS */
+.tn-add-btn {
+  background: linear-gradient(to right, #7c3aed, #9333ea);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.tn-share {
+  background: #ede9fe;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 10px;
+  color: #7c3aed;
+  cursor: pointer;
+}
+
+/* STEPS */
+.tn-step {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.tn-step-number {
+  width: 35px;
+  height: 35px;
+  background: #ede9fe;
+  color: #7c3aed;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+/* RIGHT SIDE */
+.tn-toggle {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.tn-sub {
+  color: #6b7280;
+  margin-bottom: 15px;
+}
+

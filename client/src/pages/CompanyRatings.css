@@ -1,0 +1,188 @@
+.company-page {
+  background: #f5f6fa;
+  min-height: 100vh;
+}
+
+/* HEADER */
+.company-header {
+  background: linear-gradient(to right, #4f46e5, #9333ea);
+  padding: 50px 60px;
+  color: white;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+/* SEARCH */
+.search-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 60px;
+  background: white;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+}
+
+.search-input {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 80%;
+  background: #f1f5f9;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.search-input input {
+  border: none;
+  background: transparent;
+  width: 100%;
+  outline: none;
+}
+
+.filter-btn {
+  background: linear-gradient(to right, #6c2bd9, #9333ea);
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+/* COMPANY CARDS */
+.company-list {
+  margin: 30px 60px;
+}
+
+.company-card {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  margin-bottom: 30px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+.card-left {
+  width: 70%;
+}
+
+.industry {
+  color: #64748b;
+  margin-bottom: 15px;
+}
+
+.score-row {
+  margin-bottom: 15px;
+}
+
+.score {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.progress {
+  background: #e5e7eb;
+  height: 8px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.green-bar {
+  background: #22c55e;
+}
+
+.blue-bar {
+  background: #3b82f6;
+}
+
+.green {
+  color: #16a34a;
+}
+
+.blue {
+  color: #2563eb;
+}
+
+/* BENEFITS */
+.benefits span {
+  font-weight: 500;
+}
+
+.tags {
+  margin-top: 8px;
+}
+
+.tag {
+  background: #ede9fe;
+  color: #6c2bd9;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+  margin-right: 8px;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+/* RIGHT SIDE */
+.card-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+}
+
+.primary-btn {
+  background: linear-gradient(to right, #6c2bd9, #9333ea);
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.outline-btn {
+  background: white;
+  border: 2px solid #9333ea;
+  color: #9333ea;
+  padding: 8px 18px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .company-card {
+    flex-direction: column;
+  }
+
+  .card-left {
+    width: 100%;
+  }
+
+  .card-right {
+    align-items: flex-start;
+  }
+}

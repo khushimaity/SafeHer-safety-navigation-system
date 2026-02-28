@@ -1,0 +1,268 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* NAVBAR */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 120px;
+  background: #f5f6f8;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.shield {
+  font-size: 30px;
+}
+
+.logo {
+  font-size: 34px;
+  font-weight: 700;
+  color: #333;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #444;
+  font-size: 19px;
+  font-weight: 500;
+  padding: 10px 16px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.nav-links a:hover {
+  background: #e6e7ea;
+}
+
+.nav-links .active {
+  background: #e9d9ff;
+  color: #7b2ff7;
+}
+
+.logout-btn {
+  background: linear-gradient(to right, #7b2ff7, #f107a3);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* HERO */
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 120px;
+  background: linear-gradient(to right, #7b2ff7, #f107a3);
+  color: white;
+}
+
+.hero-left {
+  width: 50%;
+}
+
+.badge {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 8px 16px;
+  border-radius: 25px;
+  font-size: 14px;
+}
+
+.hero h1 {
+  font-size: 64px;
+  margin: 30px 0;
+}
+
+.hero p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  margin-top: 30px;
+}
+
+.primary-btn {
+  padding: 14px 28px;
+  margin-right: 15px;
+  border-radius: 12px;
+  border: none;
+  background: white;
+  color: #7b2ff7;
+  font-weight: 600;
+}
+
+.secondary-btn {
+  padding: 14px 28px;
+  border-radius: 12px;
+  border: 1px solid white;
+  background: transparent;
+  color: white;
+}
+
+.stats {
+  display: flex;
+  gap: 60px;
+  margin-top: 50px;
+}
+
+.hero-right img {
+  width: 500px;
+  border-radius: 20px;
+}
+
+/* FEATURES */
+
+.features {
+  padding: 120px;
+  text-align: center;
+  background: #f5f5f5;
+}
+
+.subtitle {
+  color: gray;
+  margin-bottom: 40px;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+
+.feature-card {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+}
+
+/* HOW IT WORKS */
+
+.how-it-works {
+  padding: 120px;
+  text-align: center;
+  background: white;
+}
+
+.steps-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.step-card {
+  background: #f9f9f9;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.step-number {
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(to right, #7b2ff7, #f107a3);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 20px auto;
+}
+
+/* TESTIMONIALS */
+
+.testimonials {
+  padding: 120px;
+  text-align: center;
+  background: #f5f5f5;
+}
+
+.testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.testimonial-card {
+  background: white;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.stars {
+  color: gold;
+  margin-bottom: 15px;
+}
+
+/* CTA */
+
+.cta {
+  padding: 140px;
+  text-align: center;
+  background: linear-gradient(to right, #7b2ff7, #f107a3);
+  color: white;
+}
+
+.cta-buttons {
+  margin-top: 30px;
+}
+
+.cta-primary {
+  padding: 14px 28px;
+  margin-right: 15px;
+  border-radius: 8px;
+  border: none;
+  background: white;
+  color: #7b2ff7;
+}
+
+.cta-secondary {
+  padding: 14px 28px;
+  border-radius: 8px;
+  border: 1px solid white;
+  background: transparent;
+  color: white;
+}
+
+/* FOOTER */
+
+.footer {
+  background: #0d1b2a;
+  color: white;
+  padding: 100px 120px;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+.footer-bottom {
+  margin-top: 40px;
+  text-align: center;
+  border-top: 1px solid #333;
+  padding-top: 20px;
+  color: #aaa;
+}

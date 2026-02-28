@@ -1,0 +1,153 @@
+.about-container {
+  font-family: "Poppins", sans-serif;
+  background: #f6f7fb;
+}
+
+/* HERO */
+.about-hero {
+  text-align: center;
+  padding: 100px 20px;
+  color: white;
+  background: linear-gradient(135deg, #7b2ff7, #f107a3);
+}
+
+.about-hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.about-hero p {
+  max-width: 800px;
+  margin: auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* STATS */
+.about-stats {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: -50px;
+  padding: 0 20px 60px;
+  flex-wrap: wrap;
+}
+
+.stat-card {
+  background: white;
+  padding: 30px;
+  width: 220px;
+  text-align: center;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.stat-card h2 {
+  margin: 10px 0;
+  font-size: 28px;
+}
+
+/* STORY */
+.our-story {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 10%;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.story-text {
+  flex: 1;
+}
+
+.story-text h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.story-text p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.quote-box {
+  flex: 1;
+  background: #f0e6f9;
+  padding: 40px;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+/* CORE VALUES */
+.core-values {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.values-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+
+.value-card {
+  background: white;
+  padding: 30px;
+  width: 250px;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* TEAM */
+.team-section {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.team-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+
+.team-card {
+  background: linear-gradient(135deg, #7b2ff7, #f107a3);
+  color: white;
+  padding: 30px;
+  width: 250px;
+  border-radius: 16px;
+}
+
+/* CTA */
+.join-mission {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #7b2ff7, #f107a3);
+  color: white;
+}
+
+.cta-buttons {
+  margin-top: 30px;
+}
+
+.primary-btn {
+  background: white;
+  color: #7b2ff7;
+  padding: 12px 30px;
+  border-radius: 8px;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.secondary-btn {
+  border: 2px solid white;
+  padding: 12px 30px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+}
