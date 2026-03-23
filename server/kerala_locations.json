@@ -1,0 +1,1502 @@
+[
+  {
+    "lat": 10.3190855,
+    "lng": 76.326697,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5655607,
+    "lng": 76.7547405,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.3471245,
+    "lng": 76.2168505,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7815823,
+    "lng": 76.2802308,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5040448,
+    "lng": 76.951054,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.509105,
+    "lng": 76.956707,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.484555,
+    "lng": 76.9549897,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.500959,
+    "lng": 76.9589101,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4846431,
+    "lng": 76.9476674,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4973813,
+    "lng": 76.9552197,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.5267158,
+    "lng": 76.2125153,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2429628,
+    "lng": 75.7853149,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2569074,
+    "lng": 75.7804932,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.264383,
+    "lng": 75.7772065,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2459092,
+    "lng": 75.7803858,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0055237,
+    "lng": 76.7832356,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.152506,
+    "lng": 76.7371918,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.1617725,
+    "lng": 76.7231162,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8799098,
+    "lng": 76.6051613,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.876413,
+    "lng": 76.6240729,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5888703,
+    "lng": 76.5285264,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.17824,
+    "lng": 75.86531,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.249439,
+    "lng": 75.784203,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5874032,
+    "lng": 76.854403,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.2145179,
+    "lng": 75.154426,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4100639,
+    "lng": 77.0816275,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.429903,
+    "lng": 77.0519047,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.4509904,
+    "lng": 76.5453702,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5667482,
+    "lng": 76.5194438,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.4651852,
+    "lng": 76.5306596,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.6099306,
+    "lng": 75.5796494,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.6257118,
+    "lng": 75.5779215,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.8741865,
+    "lng": 75.3829604,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.144626,
+    "lng": 76.7328177,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8900665,
+    "lng": 76.5843773,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.7795558,
+    "lng": 76.6792879,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8380291,
+    "lng": 76.6476808,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.6786987,
+    "lng": 76.7676427,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.6595556,
+    "lng": 76.7855551,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.7406369,
+    "lng": 76.723134,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9450082,
+    "lng": 76.3488425,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9673702,
+    "lng": 76.3000287,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.3023854,
+    "lng": 76.321561,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.5192374,
+    "lng": 76.2122925,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7732891,
+    "lng": 76.6580685,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7726776,
+    "lng": 76.6736687,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7655869,
+    "lng": 76.6590166,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.1819699,
+    "lng": 76.2047956,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.086309,
+    "lng": 77.0600795,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4834042,
+    "lng": 76.9474622,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7658432,
+    "lng": 76.6582685,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5166153,
+    "lng": 76.3278111,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.2649421,
+    "lng": 76.790107,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5069532,
+    "lng": 77.0809575,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5315575,
+    "lng": 76.9616125,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.3397236,
+    "lng": 77.165665,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4791016,
+    "lng": 76.9474859,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5186351,
+    "lng": 76.9423069,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.94716,
+    "lng": 76.1376332,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.1196933,
+    "lng": 76.1205926,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5369849,
+    "lng": 76.9665122,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7395599,
+    "lng": 76.5165345,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0158772,
+    "lng": 76.3418531,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7749279,
+    "lng": 76.3102752,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.6912036,
+    "lng": 76.3257168,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.1068396,
+    "lng": 75.210143,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5704569,
+    "lng": 76.3275679,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7628489,
+    "lng": 76.5667486,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7525024,
+    "lng": 76.6612829,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.8912353,
+    "lng": 76.7069803,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2338188,
+    "lng": 75.7889536,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9602949,
+    "lng": 76.2676188,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5016502,
+    "lng": 76.6400154,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7530238,
+    "lng": 76.5615324,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.8371923,
+    "lng": 76.7455168,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9953755,
+    "lng": 76.2904564,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7996742,
+    "lng": 76.6598304,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5038822,
+    "lng": 76.9510129,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.3783066,
+    "lng": 77.1258416,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4538721,
+    "lng": 77.0104923,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0925346,
+    "lng": 76.8562575,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.2649632,
+    "lng": 76.8064737,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.6677898,
+    "lng": 76.5557469,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0433221,
+    "lng": 76.2988994,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5002055,
+    "lng": 76.5249172,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.1535037,
+    "lng": 76.7336934,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.5068621,
+    "lng": 74.9942898,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0352276,
+    "lng": 76.8520854,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.8718213,
+    "lng": 75.3676065,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.4846528,
+    "lng": 76.3223403,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5977041,
+    "lng": 76.3180189,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.4914722,
+    "lng": 74.9877613,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.556815,
+    "lng": 76.8727534,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.1529056,
+    "lng": 76.354706,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7400009,
+    "lng": 76.6467736,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.3019364,
+    "lng": 76.3359263,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.4488743,
+    "lng": 76.5486688,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.5933319,
+    "lng": 76.0438602,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9497664,
+    "lng": 76.3526309,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2749119,
+    "lng": 77.1599206,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.5944777,
+    "lng": 76.5322834,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9087792,
+    "lng": 76.7025279,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.4507487,
+    "lng": 75.0224926,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.4550545,
+    "lng": 75.0332858,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0207497,
+    "lng": 76.3436819,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.4340897,
+    "lng": 76.3453615,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9454378,
+    "lng": 76.3511244,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9732354,
+    "lng": 76.3165257,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.2330076,
+    "lng": 76.4768113,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.9896481,
+    "lng": 75.6784147,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4705379,
+    "lng": 76.9810403,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0708148,
+    "lng": 76.3172109,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9913104,
+    "lng": 76.575532,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7138093,
+    "lng": 76.6887067,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.8639731,
+    "lng": 76.0970884,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.8539042,
+    "lng": 76.0848916,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.7609615,
+    "lng": 75.4820381,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.7538929,
+    "lng": 75.4923063,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5663227,
+    "lng": 76.8723572,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5103341,
+    "lng": 76.8970471,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.7501491,
+    "lng": 75.4952235,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.1616102,
+    "lng": 76.7229575,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2337709,
+    "lng": 76.1946349,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.0802941,
+    "lng": 75.2633371,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.0687284,
+    "lng": 75.2308897,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.1081344,
+    "lng": 75.2151009,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.0418143,
+    "lng": 75.3683211,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.5974016,
+    "lng": 75.5875535,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.8012321,
+    "lng": 76.1804253,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.8050832,
+    "lng": 76.1874489,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.9273761,
+    "lng": 75.3463714,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.0216663,
+    "lng": 75.2601948,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 12.0976021,
+    "lng": 75.1934808,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2851634,
+    "lng": 75.7650382,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0696104,
+    "lng": 76.305412,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.4714252,
+    "lng": 75.9684797,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.3638898,
+    "lng": 75.9645525,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.3208658,
+    "lng": 75.9971628,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.7310975,
+    "lng": 76.8984061,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.7701871,
+    "lng": 76.8808693,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2647467,
+    "lng": 75.81144,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.7748267,
+    "lng": 76.8805613,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7728862,
+    "lng": 76.3737431,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7729903,
+    "lng": 76.3783756,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.6773239,
+    "lng": 75.780267,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0652253,
+    "lng": 76.5446447,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7365803,
+    "lng": 76.6170288,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9783813,
+    "lng": 76.2762553,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9684255,
+    "lng": 76.2860629,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9722361,
+    "lng": 76.2851945,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.972238,
+    "lng": 76.2853211,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9684364,
+    "lng": 76.2861566,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0226528,
+    "lng": 76.3095966,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0226493,
+    "lng": 76.3094751,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9858477,
+    "lng": 76.2814261,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9857992,
+    "lng": 76.2815389,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9857789,
+    "lng": 76.2814491,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8570173,
+    "lng": 76.7221481,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4950282,
+    "lng": 76.9317754,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.0604552,
+    "lng": 76.6287507,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2257051,
+    "lng": 76.3737255,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.1926978,
+    "lng": 76.3868699,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4943006,
+    "lng": 76.964495,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.5112745,
+    "lng": 76.2583639,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8977314,
+    "lng": 76.860373,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.9273829,
+    "lng": 76.9140014,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.1105847,
+    "lng": 76.3488074,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.8002813,
+    "lng": 76.7547737,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4918963,
+    "lng": 76.9227892,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4920303,
+    "lng": 76.9230424,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4921194,
+    "lng": 76.9229632,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.2777001,
+    "lng": 76.4631904,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.3862866,
+    "lng": 76.3627219,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8935262,
+    "lng": 76.5906177,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.8935217,
+    "lng": 76.715267,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8759907,
+    "lng": 76.6250663,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4060577,
+    "lng": 76.9768733,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5495332,
+    "lng": 76.9169489,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7192118,
+    "lng": 76.6012312,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.4457567,
+    "lng": 76.4380755,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.9605769,
+    "lng": 76.2407752,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.8005431,
+    "lng": 76.5598281,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0896931,
+    "lng": 76.5657447,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8862192,
+    "lng": 76.5954829,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7576158,
+    "lng": 76.5610757,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7171417,
+    "lng": 76.6891448,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7919217,
+    "lng": 76.8513259,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7914693,
+    "lng": 76.8523262,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.6354156,
+    "lng": 76.6065123,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7593514,
+    "lng": 76.5617627,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2450245,
+    "lng": 75.9755123,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4949443,
+    "lng": 76.9479647,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.498576,
+    "lng": 76.9485813,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5316662,
+    "lng": 76.9616716,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5138025,
+    "lng": 76.9462192,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5055868,
+    "lng": 76.9515864,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5087326,
+    "lng": 76.9522644,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5094673,
+    "lng": 76.9490278,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5087499,
+    "lng": 76.9521745,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5083276,
+    "lng": 76.950023,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5086515,
+    "lng": 76.9521594,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.1481868,
+    "lng": 76.7608216,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.1448793,
+    "lng": 76.7695173,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7523038,
+    "lng": 77.1311717,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.7523774,
+    "lng": 77.1340622,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.9438169,
+    "lng": 75.3051157,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5021945,
+    "lng": 76.9499326,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4899268,
+    "lng": 76.9412805,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4900402,
+    "lng": 76.9412699,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4899178,
+    "lng": 76.9414003,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4898998,
+    "lng": 76.9413417,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4900214,
+    "lng": 76.9414309,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4899567,
+    "lng": 76.9412608,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4900659,
+    "lng": 76.9413945,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5054029,
+    "lng": 76.9515204,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5113631,
+    "lng": 76.9623031,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5116637,
+    "lng": 76.9624661,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5115051,
+    "lng": 76.9625474,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5115233,
+    "lng": 76.9622025,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.508586,
+    "lng": 76.9531748,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4996775,
+    "lng": 76.9444805,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.319118,
+    "lng": 76.326791,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8785288,
+    "lng": 76.6071726,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5092986,
+    "lng": 76.9491055,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.5093787,
+    "lng": 76.941083,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.513972,
+    "lng": 76.9459895,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4894767,
+    "lng": 76.9413175,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4800663,
+    "lng": 76.9345495,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4894676,
+    "lng": 76.941223,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4895923,
+    "lng": 76.9408823,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4797453,
+    "lng": 76.9340549,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.1531254,
+    "lng": 76.3548371,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2681129,
+    "lng": 76.3493347,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2839984,
+    "lng": 76.3430541,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.4222472,
+    "lng": 76.2696362,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.6452639,
+    "lng": 76.5459725,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2530676,
+    "lng": 76.3674896,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.2839145,
+    "lng": 76.3427875,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 10.7975801,
+    "lng": 76.7428521,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0401176,
+    "lng": 76.8254554,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.0945492,
+    "lng": 76.8525862,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 9.991262,
+    "lng": 76.5754729,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.2769765,
+    "lng": 76.2260507,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.8922712,
+    "lng": 76.6035791,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.9072792,
+    "lng": 76.7625878,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.9808005,
+    "lng": 76.8380023,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.9287337,
+    "lng": 76.9085336,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.9422912,
+    "lng": 75.3470261,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 11.8619489,
+    "lng": 75.3713982,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  },
+  {
+    "lat": 8.4919741,
+    "lng": 76.9227227,
+    "type": "moderate",
+    "source": "OpenStreetMap"
+  }
+]
