@@ -13,6 +13,17 @@ Many people feel unsafe while traveling, especially at night or in unfamiliar ar
 - Display of nearby incidents along the route
 - Alternative route comparison
 
+## Screenshots
+
+### Route Visualization
+![Map](map.png)
+
+### Incident Reporting
+![Incident Report](incident-report.png)
+
+### Route Safety Result
+![Route Safety](route-safety.png)
+
 ## Tech Stack
 Frontend: React.js  
 Backend: Node.js, Express.js  
